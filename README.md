@@ -20,4 +20,4 @@
 7. 웹 서버와 DB 서버로 2티어 아키텍처 구현
 
 ---
-Copyright (C) 2026. NETID
+Copyright (C) 2026. WJEONG
